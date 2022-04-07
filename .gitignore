@@ -1,0 +1,5 @@
+setenv.ps1
+terraform.*
+.terraform
+.terraform.lock.hcl
+netshoot-deploy.bat
